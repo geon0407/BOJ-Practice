@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <algorithm>
 
-using namespace std;
+using namespace std; 
 
 int arr[1001010];
 int N;
