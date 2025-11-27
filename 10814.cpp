@@ -8,7 +8,7 @@ bool cmp(pair<int, string> a, pair<int, string> b)
 
 int main(void)
 {
-    ios_base :: sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
 
