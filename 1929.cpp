@@ -15,7 +15,6 @@ int main(void)
     }
 
     for(i=m;i<=n;i++) {
-        //printf("%d\n", num[i]);
         if(num[i] == 1) {
             printf("%d\n", i);
         }
