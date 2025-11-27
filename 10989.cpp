@@ -1,7 +1,8 @@
 #include <stdio.h>
  
 int cnt[10001];
-int main()
+
+int main(void)
 {
     int n;
     int v=0;
