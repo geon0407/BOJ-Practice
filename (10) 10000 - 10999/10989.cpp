@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int cnt[10001];
 
 int main(void)
